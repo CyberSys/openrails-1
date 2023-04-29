@@ -21,7 +21,7 @@ Open Rails is a free train simulator supporting the world's largest range of dig
 * [Create content](http://www.openrails.org/contribute/building-models/?utm_campaign=documentation&utm_source=readme&utm_medium=referral)
 * [Write code](http://www.openrails.org/contribute/developing-code/?utm_campaign=documentation&utm_source=readme&utm_medium=referral)
 * [Join the team](http://www.openrails.org/contribute/joining-the-team/?utm_campaign=documentation&utm_source=readme&utm_medium=referral)
-* [More details](Contributing.md)
+* [How to propose and submit work](Contributing.md)
 
 ## Build status
 
